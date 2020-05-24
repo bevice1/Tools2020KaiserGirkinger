@@ -5,5 +5,7 @@ public class Main {
 		if(true) System.out.println("Dias stinkt");
     }
 	
-	public void thisIsANewMethod() {}
+	public void thisIsANewMethod() {
+		if(true) System.out.println("Cones bloody bedsheets");
+	}
 }
