@@ -6,16 +6,11 @@ public class Main {
     }
 	
 	public void thisIsANewMethod() {
+
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		if(true) System.out.println("Cones bloody bedsheets");
 		System.out.println("Reverse");
+
+
 	}
 }
