@@ -13,4 +13,8 @@ public class Main {
 	public void thisIsABadMethod() {
 		throw new NullPointerException;
 	}
+	
+	public void isThisAMethod() {
+		if(true) System.out.println("Yes. This is a method.")
+	}
 }
