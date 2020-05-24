@@ -5,5 +5,17 @@ public class Main {
 		if(true) System.out.println("Dias stinkt");
     }
 	
-	public void thisIsANewMethod() {}
+	public void thisIsANewMethod() {
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		System.out.println("Reverse");
+	}
 }
