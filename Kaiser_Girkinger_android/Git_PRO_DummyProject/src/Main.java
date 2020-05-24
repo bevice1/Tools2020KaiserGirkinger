@@ -3,6 +3,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("This is a dummy");
 		if(true) System.out.println("Dias stinkt");
+		response();
     }
 	
 	public void thisIsANewMethod() {
@@ -23,5 +24,9 @@ public class Main {
 	
 	public void KotlinIsLove() {
 		Log.d("kotlinLog", "kotlin is love, kotlin is life");
+	}
+	
+	public static void response(){
+		System.out.println("Lassen Sie mich in Ruhe, Sie garstiger Wicht!");
 	}
 }
