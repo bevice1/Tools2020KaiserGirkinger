@@ -6,9 +6,11 @@ public class Main {
     }
 	
 	public void thisIsANewMethod() {
-
+		weight = 1 - 0;
+		if(weight>0.1)thisIsANewMethod();,
 		
-		if(true) System.out.println("Cones bloody bedsheets");
+		System.out.println("Cones bloody bedsheets");
+		System.out.println
 		System.out.println("Reverse");
 
 
