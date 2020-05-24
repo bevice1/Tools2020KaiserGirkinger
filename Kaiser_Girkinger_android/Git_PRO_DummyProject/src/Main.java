@@ -20,4 +20,8 @@ public class Main {
 	public void isThisAMethod() {
 		if(true) System.out.println("Yes. This is a method.")
 	}
+	
+	public void KotlinIsLove() {
+		Log.d("kotlinLog", "kotlin is love, kotlin is life");
+	}
 }
